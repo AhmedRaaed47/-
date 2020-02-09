@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("676053565969530883")
+let channel =     client.channels.get("676067175307411491")
 setInterval(function() {
 channel.send(`^nitro`);
 }, 30)
